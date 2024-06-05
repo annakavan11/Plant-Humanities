@@ -35,7 +35,7 @@ license="CC BY-SA 4.0">
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
 <param ve-map
-center="41.89293, 12.49058"
+center=" -74.08299614228663, 4.67267341128871"
 zoom="5"
 Title="Colombia"
 show-labels>
